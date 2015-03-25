@@ -21,22 +21,22 @@ mkdir ~/workspaces
 
 Clone the repository with
 ```
-git clone https://github.com/theotheu/books-solved.git ~/workspaces/books-solved
+git clone https://github.com/theotheu/books.git ~/workspaces/books
 ```
 
 Go to the working directory
 ```
-cd ~/workspaces/books-solved
+cd ~/workspaces/books
 ```
 
-See the README in ~/workspaces/books-solved/data how to import the initial seed
+See the README in ~/workspaces/books/data how to import the initial seed
 
 
 Configuration
 ----------
 Copy ```config.js.default``` to ```config.js```.
 ```sh
-cp ~/workspaces/books-solved/server/config/config.js.default ~/workspaces/books-solved/server/config/config.js
+cp ~/workspaces/books/server/config/config.js.default ~/workspaces/books/server/config/config.js
 ```
 
 Change the database, port and emailaddress.
@@ -65,7 +65,7 @@ The archive is without the node modules.
 
 Install with
 ```sh
-cd ~/workspaces/books-solved/server
+cd ~/workspaces/books/server
 npm install
 ```
 
@@ -95,7 +95,7 @@ nodemon
 
 Tests
 ----------
-See the README in `~/workspaces/books-solved/tests` how to perform tests
+See the README in `~/workspaces/books/tests` how to perform tests
 
 
 
@@ -109,9 +109,9 @@ Instructions to prepare a deployment
   - Run instructions
   - Test instructions
 - Export data
-  - Make sure that the output directory exist ```mkdir ~/workspaces/books-solved/data```
-  - Make an export of your data with mongodump ```mongodump -d books-demo -o ~/workspaces/books-solved/data```
-  - Create in ~/workspaces/books-solved/data a README.md with import instructions.
+  - Make sure that the output directory exist ```mkdir ~/workspaces/books/data```
+  - Make an export of your data with mongodump ```mongodump -d books -o ~/workspaces/books/data```
+  - Create in ~/workspaces/books/data a README.md with import instructions.
   - Import instructions
 - Tests
   - static-analyzer with 0 errors

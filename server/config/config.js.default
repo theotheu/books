@@ -1,6 +1,6 @@
 module.exports = {
     development: {
-        db: 'mongodb://localhost/books-demo',   // change books-demo with your database
+        db: 'mongodb://localhost/books',        // change books with your database
         port: 3000,                             // change 3000 with your port number
         debug: true                             // set debug to true|false
     }, test: {

@@ -4,7 +4,7 @@ Go to directory `static-analyzer`
 
 Run `npm test`
 
-![static-analyze.png](https://raw.githubusercontent.com/theotheu/books-solved/master/docs/assets/static-analyzer.png)
+![static-analyze.png](https://raw.githubusercontent.com/theotheu/books/master/docs/assets/static-analyzer.png)
 
 ## Run the app
 Run `nodemon` in the server directory.
@@ -20,11 +20,11 @@ Run `npm install -g mocha`
 ## Run the tests
 Run `npm test`
 
-![unit-tests.png](https://raw.githubusercontent.com/theotheu/books-solved/master/docs/assets/unit-tests.png)
+![unit-tests.png](https://raw.githubusercontent.com/theotheu/books/master/docs/assets/unit-tests.png)
 
 
 # End to end tests
 
-![e2e.png](https://raw.githubusercontent.com/theotheu/books-solved/master/docs/assets/e2e.png)
+![e2e.png](https://raw.githubusercontent.com/theotheu/books/master/docs/assets/e2e.png)
 
 Run `npm test`
