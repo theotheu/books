@@ -1,6 +1,6 @@
 Description
 ===========
-This demo is MEAN with books.
+This demo is an exercise of MEAN with books.
 
 Video available at http://goo.gl/9aXbXa
 
