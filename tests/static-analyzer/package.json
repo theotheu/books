@@ -1,0 +1,13 @@
+{
+    "name": "test-app-static-analyzer",
+    "version": "0.0.1",
+    "devDependencies": {
+        "esprima": "~1.2.1",
+        "jslint": "~0.3.3",
+        "jshint": "~2.5.0",
+        "lintroller": "~2.3.5-b"
+    },
+    "scripts": {
+        "test": "./run_lint.sh"
+    }
+}

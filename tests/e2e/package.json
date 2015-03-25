@@ -1,0 +1,13 @@
+{
+  "name": "e2e-tests",
+  "description": "",
+  "author": "theotheu",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
