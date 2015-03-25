@@ -1,10 +1,12 @@
 module.exports = {
     development: {
-        db: 'mongodb://localhost/books',        // change books with your database
+        db: 'mongodb://localhost/books-dev',    // change books with your database
         port: 3000,                             // change 3000 with your port number
         debug: true                             // set debug to true|false
     }, test: {
-
+        db: 'mongodb://localhost/books-tst',    // change books with your database
+        port: 1300,                             // change 1300 with your port number
+        debug: true                             // set debug to true|false
     }, production: {
 
     }
