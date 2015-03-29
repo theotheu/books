@@ -1,10 +1,10 @@
 Description
 ===========
-This demo is an exercise of MEAN with books.
+This demo is MEAN with books.
 
-Video available at http://goo.gl/9aXbXa
+Video available at http://goo.gl/KswfXf
 
-Presentation available at http://goo.gl/tnmOeD
+Presentation available at http://goo.gl/idIiq3
 
 **Your assignment: Fix the TODO's**
 
@@ -96,7 +96,6 @@ nodemon
 Tests
 ----------
 See the README in `~/workspaces/books/tests` how to perform tests
-
 
 
 Instructions to prepare a deployment

@@ -9,7 +9,7 @@
 // Get all books
 /** TODO: Create route for displaying all books */
 
-// Get 1 book
-/** TODO: Create route for displaying 1 book */
+// Operations on 1 book
+/** TODO: Create route for displaying 1 book, save 1 book, update 1 book and delete 1 book*/
 
 /** TODO: Create route for other urls */
