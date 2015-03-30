@@ -15,6 +15,7 @@ Install the selenium version with (`sudo` is only for Linux and OSX)
 ```
 sudo selenium-standalone install --version=2.43.1
 ```
+
 *Version 2.44 has issues. Use 2.43.1*
 
 Open a new terminal and run
@@ -44,7 +45,7 @@ java -jar selenium-server-standalone-2.43.1.jar -role hub
 
 Install phantomjs with
 
-`sudo npm install -g phantomjs`.
+`sudo npm install -g phantomjs`
 
 Open a new terminal and run phantomjs with
 
@@ -68,7 +69,7 @@ sudo npm install -g protractor
 
 ### Run test
 ```
-npm test
+protractor conf.js
 ```
 
 ### References
