@@ -166,7 +166,7 @@ describe('CRUD on book', function () {
 
                 expect(element.all(by.repeater('book in books')).first().getText()).toBe('The Dreamer of the Snake, Ruan Mashander');
 
-                //browser.pause();
+                // browser.pause();
 
             });
 
