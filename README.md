@@ -6,7 +6,7 @@ Video available at http://goo.gl/KswfXf
 
 Presentation available at http://goo.gl/idIiq3
 
-**Your assignment: Fix the TODO's**
+**Your assignment: Fix the TODO's and UPDATE the app with actual library versions**
 
 
 Setup
