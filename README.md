@@ -6,7 +6,11 @@ Video available at http://goo.gl/KswfXf
 
 Presentation available at http://goo.gl/idIiq3
 
-**Your assignment: Fix the TODO's and UPDATE the app with actual library versions**
+**Your assignment: 
+- Install and configure the application (see instructions below)
+- Review the code
+- Fix the TODO's and UPDATE the app with actual library versions
+**
 
 
 Setup
